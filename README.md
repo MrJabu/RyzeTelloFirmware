@@ -8,6 +8,8 @@ https://www.ryzerobotics.com/tello
 ```
 Tello is based on Intel Movidius MA2x chipset
 ```
+![](https://github.com/movidius/ncsdk/blob/master/docs/images/NCS1_ArchDiagram.jpg)
+
 https://www.youtube.com/watch?v=hX0UELNRR1I
 ```
 Hello Tello - Ryze Announces Intel Myriad VPU Powered Toy Drone
