@@ -8,9 +8,15 @@ https://www.ryzerobotics.com/tello
 ```
 Tello is based on Intel Movidius MA2x chipset
 ```
+![](https://www.bdti.com/sites/default/files/insidedsp/articlepix/201710/Intel-Movidius-Myriad-X-2.jpg)
 ![](https://github.com/movidius/ncsdk/blob/master/docs/images/NCS1_ArchDiagram.jpg)
 
 https://www.youtube.com/watch?v=hX0UELNRR1I
+
+```
+Next-generation Intel Movidius Vision Processor Emphasizes Floating-point Inference
+```
+https://www.bdti.com/InsideDSP/2017/10/31/Movidius
 ```
 Hello Tello - Ryze Announces Intel Myriad VPU Powered Toy Drone
 ```
