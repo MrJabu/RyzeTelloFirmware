@@ -17,6 +17,12 @@ https://www.movidius.com/news/hello-tello-ryze-announces-intel-myriad-vpu-powere
 MA2x is based on a SARC LEON processor
 ```
 https://en.wikipedia.org/wiki/LEON
+
+```
+The CPU in the Intel Movidius Myriad 2 VPU is a SPARC microprocessor core that runs custom firmware.
+```
+https://github.com/movidius/ncsdk/blob/master/docs/ncs1arch.md
+
 ```
 Myriad 2 programming paradigms
 ```
