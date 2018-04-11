@@ -1,9 +1,8 @@
 # RyzeTelloFirmware
 ```Firmware images for hacking, reverse engineering, and teardown of the Ryze / DJI / Intel Movidius Tello
 Images are pulled from 52.84.27.109 /paraconfig_file and /firmware_file (DJI process)
-```
-```
-Tello. Powered by a DJIGlobal flight control system and an Intel processor
+
+Tello is Powered by a DJIGlobal flight control system and an Intel processor
 ```
 https://www.ryzerobotics.com/tello
 ```
